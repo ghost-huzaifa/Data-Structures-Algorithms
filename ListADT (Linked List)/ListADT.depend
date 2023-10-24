@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1698178082 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt\main.cpp
+	<iostream>
+	"List.h"
+
+1698178107 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt\include\list.h
+
+1698178895 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (static array)\main.cpp
+	<iostream>
+	"List.h"
+
+1698178526 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (static array)\include\list.h
+
+1698178895 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (dynamic array)\main.cpp
+	<iostream>
+	"List.h"
+
+1698179164 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (dynamic array)\include\list.h
+
+1698178859 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (dynamic array)\src\list_impl.cpp
+	"List.cpp"
+	<string>
+
+1698179636 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (dynamic array)\src\list.cpp
+	<iostream>
+	"List.h"
+
+1698178895 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (linked list)\main.cpp
+	<iostream>
+	"List.h"
+
+1698181293 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (linked list)\include\list.h
+
+1698178859 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (linked list)\src\list_impl.cpp
+	"List.cpp"
+	<string>
+
+1698181592 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (linked list)\src\list.cpp
+	<iostream>
+	"List.h"
+
+1698181325 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa\assignment 2 (abstract data types)\listadt (linked list)\src\list.cpp
+	<iostream>
+	"List.h"
+
